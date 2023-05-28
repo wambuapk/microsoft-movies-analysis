@@ -32,3 +32,6 @@ These sources provided information on domestic and worldwide gross, release year
 - Microsoft can aim for success by producing at least 13 movies per year, focusing on popular genres like drama, comedy, romance, and action-adventure.
 - Releasing major movies towards the end of the year increases the likelihood of higher viewer ratings.
 - Further analysis should explore the impact of directors and actors on movie success, the correlation between production cost and popularity, and anticipate potential challenges during the setup phase.
+
+
+The non-technical presentation can be found here: https://drive.google.com/file/d/1mJmjCJdO0xYn4pP-h-T1Xrl2FggNyxn4/view?usp=sharing
